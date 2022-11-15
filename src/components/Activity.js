@@ -21,7 +21,7 @@ const Activity=()=>{
                       <h1 className="p-2">Rechercher votre logement <span className="text-yellow-300 ">atypique</span></h1>
                       <div className="max-w-2xl mx-auto">
 
-                            <form className="flex items-center">   
+                            <form className="flex items-center justify-center ">   
                                 <label for="simple-search" className="sr-only">Search</label>
                                 <div className="relative w-full">
 
